@@ -14,8 +14,7 @@ L'application présente une interface simple composée d'un compteur central et 
 * **Bouton "Incrémenter le compteur" :** Augmente la valeur du compteur affiché à l'écran à chaque clic, démontrant la mise à jour dynamique de l'interface utilisateur (UI).
 
 ## 📸 Aperçu
-![Capture d'écran de l'application](https://via.placeholder.com/250x500.png?text=<img width="214" height="432" alt="image" src="https://github.com/user-attachments/assets/4d3e6da3-b637-4c70-80d6-799ee0fd78e1" />
-)
+![Capture d'écran de l'application](Lab.png)
 
 ## Concepts techniques abordés
 Ce premier projet m'a permis de mettre en pratique plusieurs concepts fondamentaux du développement Android :
