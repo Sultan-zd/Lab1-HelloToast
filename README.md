@@ -27,3 +27,7 @@ Ce premier projet m'a permis de mettre en pratique plusieurs concepts fondamenta
 ## Comment lancer le projet en local
 1. Clonez ce dépôt sur votre machine locale :
    git clone [https://github.com/Sultan-zd/Lab1.git](https://github.com/Sultan-zd/Lab1.git)
+2. Ouvrez Android Studio.
+3. Sélectionnez File > Open et choisissez le dossier du projet cloné.
+4. Laissez Gradle synchroniser les dépendances.
+5. Cliquez sur le bouton Run (le triangle vert) pour lancer l'application sur un émulateur ou un appareil physique.
