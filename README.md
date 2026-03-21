@@ -13,6 +13,9 @@ L'application présente une interface simple composée d'un compteur central et 
 * **Bouton "Afficher un message" :** Déclenche l'apparition d'un message éphémère (`Toast`) en bas de l'écran pour saluer l'utilisateur.
 * **Bouton "Incrémenter le compteur" :** Augmente la valeur du compteur affiché à l'écran à chaque clic, démontrant la mise à jour dynamique de l'interface utilisateur (UI).
 
+## 📸 Aperçu
+![Capture d'écran de l'application](https://via.placeholder.com/250x500.png?text="C:\Users\USER\OneDrive\Images\Screenshots\Lab1.png")
+
 ## Concepts techniques abordés
 Ce premier projet m'a permis de mettre en pratique plusieurs concepts fondamentaux du développement Android :
 * **Conception UI (XML) :** * Utilisation du `LinearLayout` pour structurer l'écran verticalement.
