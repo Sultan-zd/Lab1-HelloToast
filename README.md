@@ -18,7 +18,8 @@ L'application présente une interface simple composée d'un compteur central et 
 
 ## Concepts techniques abordés
 Ce premier projet m'a permis de mettre en pratique plusieurs concepts fondamentaux du développement Android :
-* **Conception UI (XML) :** * Utilisation du `LinearLayout` pour structurer l'écran verticalement.
+* **Conception UI (XML) :**
+  * Utilisation du `LinearLayout` pour structurer l'écran verticalement.
   * Déclaration et paramétrage de composants visuels (`TextView`, `Button`).
   * Compréhension des dimensions dynamiques (`wrap_content` vs `match_parent`).
 * **Logique Applicative (Java) :**
