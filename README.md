@@ -31,7 +31,7 @@ Ce premier projet m'a permis de mettre en pratique plusieurs concepts fondamenta
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
    
-   git clone [https://github.com/Sultan-zd/Lab1.git](https://github.com/Sultan-zd/Lab1.git)
+   git clone https://github.com/Sultan-zd/Lab1-HelloToast.git
 3. Ouvrez Android Studio.
 4. Sélectionnez File > Open et choisissez le dossier du projet cloné.
 5. Laissez Gradle synchroniser les dépendances.
